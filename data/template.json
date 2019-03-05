@@ -1,0 +1,5 @@
+{
+    "db_user": "${db_user}",
+    "db_password": "${db_password}",
+    "db_url": "${db_url}"
+}
